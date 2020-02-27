@@ -2,6 +2,9 @@
 
 Laravel is a beautiful php framework with expressive, elegant syntax.
 
+## Demo
+For test purposes of the app, you can demo this app at [heroku](https://still-fortress-64117.herokuapp.com/)
+
 ## Setup Guide
 * Clone this repo
 * Install Package
